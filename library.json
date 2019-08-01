@@ -1,0 +1,26 @@
+{
+    "name": "Time",
+    "description": "Time library",
+    "keywords": "Time, date, hour, minute, second, day, week, month, year, RTC",
+    "authors": [
+        {
+            "name": "qitas"
+        },
+        {
+            "name": "qitas",
+            "email": "qitas@qitas.cn",
+            "url": "http://www.os-q.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/OS-Q/D207"
+    },
+    "version": "1.5",
+    "homepage": "http://www.os-q.com/D207",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
