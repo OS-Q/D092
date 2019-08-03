@@ -1,27 +1,19 @@
-﻿# [TIME](https://github.com/OS-Q/D207)
+﻿# [system](https://github.com/OS-Q/D92)
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-
-#### 归属集成设备：[W30](https://github.com/OS-Q/W30)
-
+#### 归属ESP8266：[W14](https://github.com/OS-Q/W14)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
-Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
+Edge-Q -> Q[4] -> M[12] -> W[52] -> D[365]
 
-### [设备描述](https://github.com/OS-Q/D207/wiki)
+### [资源描述](https://github.com/OS-Q/D92/wiki) 
 
+系统内部资源组件
 
-### [开放资源](https://github.com/OS-Q/)
+### [设备资源](https://github.com/OS-Q/D92) 
 
-* [文档](docs/)
-* [资源](src/)
-* [工程](project/)
-
-### [平台资源](https://github.com/sochub)
-
-主控资料和选型方案详情可查阅
-[SoC资源平台](https://github.com/sochub)
+- [资源](src/)
+- [文档](docs/)
 
 
-
-### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/D207)
-####  2019-8-1
+### [OS-Q : Open Solution & Open Source](http://www.OS-Q.com/D92)
+####  2019-8-3
