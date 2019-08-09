@@ -14,5 +14,5 @@
     "version": "1.0.0",
     "homepage": "http://www.os-q.com/D92",
     "frameworks": "arduino",
-    "platforms":  "*"
+    "platforms":  "esp8266,esp32"
 }

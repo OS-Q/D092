@@ -7,13 +7,13 @@ Edge-Q -> Q[4] -> M[12] -> W[52] -> D[365]
 
 ### [资源描述](https://github.com/OS-Q/D92/wiki) 
 
-系统内部资源组件
+系统资源组件
 
 ### [设备资源](https://github.com/OS-Q/D92) 
 
-- [资源](src/)
-- [文档](docs/)
-
+* [文档](docs/)
+* [资源](src/)
+* [示例](examples/)
 
 ### [OS-Q : Open Solution & Open Source](http://www.OS-Q.com/D92)
 ####  2019-8-3
