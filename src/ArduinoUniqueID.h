@@ -1,6 +1,3 @@
-// Copyright © Luiz Henrique Cassettari. All rights reserved.
-// Licensed under the MIT license.
-
 #ifndef _ARDUINO_UNIQUE_ID_H_
 #define _ARDUINO_UNIQUE_ID_H_
 

@@ -1,6 +1,3 @@
-// Copyright © Luiz Henrique Cassettari. All rights reserved.
-// Licensed under the MIT license.
-
 #include "ArduinoUniqueID.h"
 
 ArduinoUniqueID::ArduinoUniqueID()

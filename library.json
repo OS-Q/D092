@@ -1,18 +1,17 @@
 {
-    "name": "system",
-    "description": "system Time library",
-    "keywords": "Time, date, hour, minute, second, day, week, month, year, RTC",
-  "authors":
-  {
+  "name":"basic",
+  "description":"basic",
+  "keywords":"basic",
+  "version": "1.0.0",
+  "authors": {
     "name":  "qitas",
-    "email": "qitas@qitas.cn"
+    "email": "qitas@qitas.cn",
+    "url": "http://tang.qitas.cn"
   },
-    "repository": {
-        "type": "git",
-         "url": "https://github.com/OS-Q/D92"
-    },
-    "version": "1.0.0",
-    "homepage": "http://www.os-q.com/D92",
-    "frameworks": "arduino",
-    "platforms":  "esp8266,esp32"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OS-Q/D91.git"
+  },
+  "frameworks": "arduino",
+  "platforms":"atmelavr,esp8266,esp32"
 }
