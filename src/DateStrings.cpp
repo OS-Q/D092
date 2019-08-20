@@ -1,13 +1,5 @@
-/* DateStrings.cpp
- * Definitions for date strings for use with the Time library
- *
- * Updated for Arduino 1.5.7 18 July 2014
- *
- * No memory is consumed in the sketch if your code does not call any of the string methods
- * You can change the text of the strings, make sure the short strings are each exactly 3 characters 
- * the long strings can be any length up to the constant dt_MAX_STRING_LEN defined in TimeLib.h
- * 
- */
+#ifndef DateStr_H_
+#define DateStr_H_
 
 #if defined(__AVR__)
 #include <avr/pgmspace.h>
@@ -99,3 +91,4 @@ char* dayShortStr(uint8_t day)
    buffer[dt_SHORT_STR_LEN] = 0; 
    return buffer;
 }
+#endif /*  */
