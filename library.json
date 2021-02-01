@@ -5,8 +5,7 @@
   "version": "1.2.0",
   "authors": {
     "name":  "qitas",
-    "email": "qitas@qitas.cn",
-    "url": "http://tang.qitas.cn"
+    "email": "qitas@qitas.cn"
   },
   "repository": {
     "type": "git",
